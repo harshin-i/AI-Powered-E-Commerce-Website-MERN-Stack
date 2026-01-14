@@ -68,13 +68,7 @@ This project is fully functional, scalable, and suitable as a **major project** 
 * Manage users
 * Update order status
 * Dashboard Analytics (Revenue, Orders, Users Count)
-
 ---
-
- 
-
----
- 
 
 # 🚦 **Installation & Setup**
 
